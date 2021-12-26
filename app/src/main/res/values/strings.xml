@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Sasa Refurb App</string>
+    <string name="todo">CREATE_LOGIN_SIGNUP</string>
+    <string name="todo2">TODO</string>
 </resources>

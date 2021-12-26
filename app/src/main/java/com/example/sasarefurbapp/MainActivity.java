@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         //Create intent for the splashScreen and the next Activity
         Handler handler = new Handler();
         handler.postDelayed(() -> {
-                Intent intent = new Intent(MainActivity.this, Login.class);
+                Intent intent = new Intent(MainActivity.this, HomeActivity.class);
                 startActivity(intent);
                 finish();
         }, 10000);
