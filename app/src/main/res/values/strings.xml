@@ -2,4 +2,7 @@
     <string name="app_name">Sasa Refurb App</string>
     <string name="todo">CREATE_LOGIN_SIGNUP</string>
     <string name="todo2">TODO</string>
+    <string name="or">or</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
 </resources>

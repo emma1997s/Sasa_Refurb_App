@@ -4,9 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Emmax/AndroidStudioProjects/SasaRefurbApp/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/Emmax/AndroidStudioProjects/SasaRefurbApp/app/src/main/res/drawable/login_background.xml" value="0.23489583333333333" />
         <entry key="..\:/Users/Emmax/AndroidStudioProjects/SasaRefurbApp/app/src/main/res/drawable/round.xml" value="0.23489583333333333" />
         <entry key="..\:/Users/Emmax/AndroidStudioProjects/SasaRefurbApp/app/src/main/res/layout/activity_home.xml" value="0.2" />
-        <entry key="..\:/Users/Emmax/AndroidStudioProjects/SasaRefurbApp/app/src/main/res/layout/activity_login.xml" value="0.15625" />
+        <entry key="..\:/Users/Emmax/AndroidStudioProjects/SasaRefurbApp/app/src/main/res/layout/activity_login.xml" value="0.2" />
         <entry key="..\:/Users/Emmax/AndroidStudioProjects/SasaRefurbApp/app/src/main/res/layout/activity_main.xml" value="0.1644021739130435" />
       </map>
     </option>
