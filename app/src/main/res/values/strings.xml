@@ -3,6 +3,11 @@
     <string name="todo">CREATE_LOGIN_SIGNUP</string>
     <string name="todo2">TODO</string>
     <string name="or">or</string>
-    <string name="sign_up">Sign Up</string>
+    <string name="sign_up2">Sign Up</string>
     <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
 </resources>

@@ -3,12 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Emmax/AndroidStudioProjects/SasaRefurbApp/app/src/main/res/drawable/custom_button.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/Emmax/AndroidStudioProjects/SasaRefurbApp/app/src/main/res/drawable/custom_buttons.xml" value="0.23489583333333333" />
         <entry key="..\:/Users/Emmax/AndroidStudioProjects/SasaRefurbApp/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/Emmax/AndroidStudioProjects/SasaRefurbApp/app/src/main/res/drawable/ic_baseline_person_25.xml" value="0.2312820512820513" />
         <entry key="..\:/Users/Emmax/AndroidStudioProjects/SasaRefurbApp/app/src/main/res/drawable/login_background.xml" value="0.23489583333333333" />
         <entry key="..\:/Users/Emmax/AndroidStudioProjects/SasaRefurbApp/app/src/main/res/drawable/round.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/Emmax/AndroidStudioProjects/SasaRefurbApp/app/src/main/res/drawable/text.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/Emmax/AndroidStudioProjects/SasaRefurbApp/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.14056224899598393" />
+        <entry key="..\:/Users/Emmax/AndroidStudioProjects/SasaRefurbApp/app/src/main/res/layout-w936dp/activity_login.xml" value="0.1640625" />
         <entry key="..\:/Users/Emmax/AndroidStudioProjects/SasaRefurbApp/app/src/main/res/layout/activity_home.xml" value="0.2" />
         <entry key="..\:/Users/Emmax/AndroidStudioProjects/SasaRefurbApp/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/Emmax/AndroidStudioProjects/SasaRefurbApp/app/src/main/res/layout/activity_login2.xml" value="0.21875" />
         <entry key="..\:/Users/Emmax/AndroidStudioProjects/SasaRefurbApp/app/src/main/res/layout/activity_main.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/Emmax/AndroidStudioProjects/SasaRefurbApp/app/src/main/res/layout/activity_sign_up.xml" value="0.21875" />
       </map>
     </option>
   </component>

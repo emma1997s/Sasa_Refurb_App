@@ -5,27 +5,28 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.ImageView;
+import android.widget.Button;
 
 import java.util.Objects;
 
-public class HomeActivity extends AppCompatActivity implements View.OnClickListener {
+public class SignUpActivity extends AppCompatActivity implements View.OnClickListener {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_home);
+        setContentView(R.layout.activity_sign_up);
 
-        //Remove the App ActionBar
+        //Removes the ActionBar
         Objects.requireNonNull(getSupportActionBar()).hide();
 
-        ImageView imageView = findViewById(R.id.imageView);
-        imageView.setOnClickListener(this);
+        Button butt = findViewById(R.id.button_login);
+        butt.setOnClickListener(this);
     }
 
     @Override
     public void onClick(View v) {
-        Intent intent4 = new Intent(HomeActivity.this, LoginActivity.class);
-        startActivity(intent4);
+        //Set the loginActivity
+        Intent intent = new Intent(SignUpActivity.this, LoginActivity.class);
+        startActivity(intent);
     }
 }
