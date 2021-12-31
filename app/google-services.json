@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569933173674",
+    "project_id": "sasa-refurb-app",
+    "storage_bucket": "sasa-refurb-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569933173674:android:b6b4f67d2e2d564cff51d3",
+        "android_client_info": {
+          "package_name": "com.example.sasarefurbapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569933173674-0cgkogess851rgb0upucl3q3of3skasb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgyp4STYHID1Ez3g6EPTzoJVAUMmjxfiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569933173674-0cgkogess851rgb0upucl3q3of3skasb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
